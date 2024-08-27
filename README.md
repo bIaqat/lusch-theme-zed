@@ -1,5 +1,5 @@
 # Lusch
-variants: [Lusch, Darker]
+`variants: [Lusch, Darker]`
 A dark colorful theme for zed based off the colors used in the Discord UI
 
 ## Preview
