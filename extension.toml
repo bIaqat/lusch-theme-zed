@@ -1,6 +1,6 @@
 id = "lusch-theme"
 name = "Lusch Theme"
-version = "0.5.0"
+version = "0.6.0"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
 description = "A dark colorful theme for zed based off the colors used in the Discord UI"
