@@ -849,8 +849,8 @@
 						"font_weight": null
 					},
 					"type.builtin": {
-						"color": "#FFAC79",
-						"font_style": "italic",
+						"color": "#67E5CD",
+						"font_style": null,
 						"font_weight": null
 					},
 					"type.super": {
